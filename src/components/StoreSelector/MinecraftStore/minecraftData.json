@@ -1,0 +1,250 @@
+{
+    "items": [
+        {
+            "name": "Apple",
+            "category": "food",
+            "price": 1.92,
+            "id": 0
+        },
+        {
+            "name": "Carrot",
+            "category": "food",
+            "price": 17.24,
+            "id": 1
+        },
+        {
+            "name": "Diamond",
+            "category": "mineral",
+            "price": 17.24,
+            "id": 2
+        },
+        {
+            "name": "Gold Ore",
+            "category": "mineral",
+            "price": 17.24,
+            "id": 3
+        },
+        {
+            "name": "Saddle",
+            "category": "misc",
+            "price": 21.19,
+            "id": 4
+        },
+        {
+            "name": "Iron Ingot",
+            "category": "mineral",
+            "price": 17.24,
+            "id": 5
+        },
+        {
+            "name": "Gold Ingot",
+            "category": "mineral",
+            "price": 17.24,
+            "id": 6
+        },
+        {
+            "name": "Emerald",
+            "category": "mineral",
+            "price": 17.24,
+            "id": 7
+        },
+        {
+            "name": "Bread",
+            "category": "food",
+            "price": 17.24,
+            "id": 8
+        },
+        {
+            "name": "Wood Pickaxe",
+            "category": "tool",
+            "price": 6.99,
+            "id": 9
+        },
+        {
+            "name": "Diamond Shovel",
+            "category": "tool",
+            "price": 199.99,
+            "id": 10
+        },
+        {
+            "name": "Cake",
+            "category": "food",
+            "price": 25.00,
+            "id": 11
+        },
+        {
+            "name": "Iron Sword",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 12
+        },
+        {
+            "name": "Stone Sword",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 13
+        },
+        {
+            "name": "Steak",
+            "category": "food",
+            "price": 25.00,
+            "id": 14
+        },
+        {
+            "name": "Sugar",
+            "category": "food",
+            "price": 25.00,
+            "id": 15
+        },
+        {
+            "name": "Book",
+            "category": "misc",
+            "price": 25.00,
+            "id": 16
+        },
+        {
+            "name": "Blaze Rod",
+            "category": "misc",
+            "price": 25.00,
+            "id": 17
+        },
+        {
+            "name": "Feather",
+            "category": "misc",
+            "price": 25.00,
+            "id": 18
+        },
+        {
+            "name": "Brick",
+            "category": "misc",
+            "price": 25.00,
+            "id": 19
+        },
+        {
+            "name": "Diamond Sword",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 20
+        },
+        {
+            "name": "Gold Sword",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 21
+        },
+        {
+            "name": "Ghast Tear",
+            "category": "misc",
+            "price": 25.00,
+            "id": 22
+        },
+        {
+            "name": "Gun Powder",
+            "category": "misc",
+            "price": 25.00,
+            "id": 23
+        },
+        {
+            "name": "Stone Pickaxe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 24
+        },
+        {
+            "name": "Diamond Pickaxe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 25
+        },
+        {
+            "name": "Wood Axe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 26
+        },
+        {
+            "name": "Iron Axe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 27
+        },
+        {
+            "name": "Diamond Axe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 28
+        },
+        {
+            "name": "Stone Axe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 29
+        },
+        {
+            "name": "Gold Axe",
+            "category": "tool",
+            "price": 25.00,
+            "id": 30
+        },
+        {
+            "name": "Diamond Ore",
+            "category": "mineral",
+            "price": 25.00,
+            "id": 31
+        },
+        {
+            "name": "Emerald Ore",
+            "category": "mineral",
+            "price": 25.00,
+            "id": 32
+        },
+        {
+            "name": "Iron Ore",
+            "category": "Mineral",
+            "price": 25.00,
+            "id": 33
+        },
+        {
+            "name": "Redstone",
+            "category": "mineral",
+            "price": 25.00,
+            "id": 34
+        },
+        {
+            "name": "Lapis Lazuli",
+            "category": "mineral",
+            "price": 25.00,
+            "id": 35
+        },
+        {
+            "name": "Redstone Ore",
+            "category": "mineral",
+            "price": 25.00,
+            "id": 36
+        },
+        {
+            "name": "Bow",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 37
+        },
+        {
+            "name": "Crossbow",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 38
+        },
+        {
+            "name": "Flint & Steel",
+            "category": "weapon",
+            "price": 25.00,
+            "id": 39
+        },
+        {
+            "name": "Ender Pearl",
+            "category": "misc",
+            "price": 25.00,
+            "id": 40
+        }
+    ]
+}

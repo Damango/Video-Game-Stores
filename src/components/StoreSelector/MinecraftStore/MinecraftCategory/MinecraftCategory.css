@@ -1,0 +1,22 @@
+
+.minecraft-category{
+    position: relative;
+}
+
+
+.category-image{
+    position: absolute;
+    left: 50%;
+    top: 58%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+}
+
+.category-title{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Fira Sans Condensed";
+    font-size: 40px;
+    font-weight: bold;
+}
